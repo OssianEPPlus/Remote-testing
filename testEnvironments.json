@@ -8,10 +8,10 @@
     //  "type": "wsl",
     //  "wslDistribution": "Ubuntu"
     //},
-    {
-      "name": "Docker dotnet/sdk",
-      "type": "docker",
-      "dockerFile": "RemoteTesting/Dockerfile"
-    }
+    //  {
+    //    "name": "Docker dotnet/sdk",
+    //    "type": "docker",
+    //    "dockerFile": "RemoteTesting/Dockerfile"
+    //  }
   ]
 }
